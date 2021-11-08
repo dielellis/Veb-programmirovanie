@@ -1,2 +1,1 @@
 # Veb-programmirovanie
-LB32
